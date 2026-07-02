@@ -60,4 +60,14 @@ Through this mini-project, I gained practical experience in:
 - Developing self-checking testbenches
 - Understanding the interaction between Generator, Driver, Monitor, and Scoreboard components
 
+## Simulation Waveform
+
+![Waveform](output_waveform.png)
+
+## Simulation Console Output
+
+![Console Output 1](console_output1.png)
+
+![Console Output 2](console_output2.png)
+
 
