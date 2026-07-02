@@ -59,3 +59,5 @@ Through this mini-project, I gained practical experience in:
 - Implementing inter-process communication using mailboxes and events
 - Developing self-checking testbenches
 - Understanding the interaction between Generator, Driver, Monitor, and Scoreboard components
+
+
